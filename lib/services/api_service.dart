@@ -6,7 +6,7 @@ import '../models/session_result.dart';
 
 class ApiService {
   // ── Replace with your Railway URL after deployment ──────────
-  static const String baseUrl = 'https://web-production-7fe2b.up.railway.app';
+static const String baseUrl = 'https://harsh5431-sleep-apnea-backend.hf.space';
 
   // ─────────────────────────────────────────────────────────
   // Upload CSV and get prediction results
