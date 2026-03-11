@@ -83,7 +83,6 @@ class _UploadScreenState extends State<UploadScreen> {
                   _ColRow('SpO2',      'Blood Oxygen Saturation (%)'),
                   _ColRow('RMSSD',     'HRV metric (ms)'),
                   _ColRow('SDNN',      'HRV metric (ms)'),
-                  _ColRow('SpO2drop',  'Minute-to-minute SpO2 change (%)'),
                   const SizedBox(height: 8),
                   Text('One row per minute of overnight recording.',
                       style: TextStyle(fontSize: 12,
